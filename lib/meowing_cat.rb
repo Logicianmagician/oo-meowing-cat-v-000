@@ -7,4 +7,6 @@ maru = Cat.new
 
 maru.meow = puts "meow!"
 
+maru.meow
+
 end

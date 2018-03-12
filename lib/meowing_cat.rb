@@ -1,8 +1,10 @@
 ## code your solution here.
 class Cat
 
-maru = Cat.new
-attr_accessor :name, :meow
+cat = Cat.new
+attr_accessor :cat
+
+cat.name = "Maru"
 
 maru.meow = puts "meow!"
 

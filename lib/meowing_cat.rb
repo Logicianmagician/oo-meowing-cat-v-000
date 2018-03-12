@@ -1,12 +1,10 @@
 ## code your solution here.
 class Cat
 
-attr_accessor :cat, :cat
+attr_accessor :cat 
 
 maru = Cat.new
 
-maru.meow = "Meow"
 
-maru.meow
 
 end

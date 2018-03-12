@@ -1,6 +1,6 @@
-## code your solution here. 
-class Cat 
+## code your solution here.
+class Cat
 
-attr_accessor :cat, :cat 
+attr_accessor :cat, :cat
 
 cat.meow = puts "Meow"

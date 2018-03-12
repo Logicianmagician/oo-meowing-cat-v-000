@@ -6,7 +6,6 @@ cat = Cat.new
 
 cat.name = "Maru"
 
-def cat.meow
-  puts "meow!"
-end
+cat.puts("meow!")
+ 
 end

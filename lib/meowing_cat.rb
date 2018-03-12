@@ -6,6 +6,6 @@ cat = Cat.new
 
 cat.name = "Maru"
 
-cat.meow = "meow!"
+cat.meow = puts "meow!"
 
 end

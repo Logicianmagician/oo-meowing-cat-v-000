@@ -4,6 +4,6 @@ class Cat
 maru = Cat.new
 attr_accessor :name, :meow
 
-maru.meow = "meow!"
+maru.meow = puts "meow!"
 
 end
